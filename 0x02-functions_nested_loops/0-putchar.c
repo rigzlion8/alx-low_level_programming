@@ -1,19 +1,7 @@
-#include "main.h"
-
-/**
- * main - function prints text as output
- *
- * Return:return 0
- **/
-int main(void)
-{
-	char school[10] = "_putchar";
-	int i;
-
-	for (i = 0; i < 8; i++)
-	{
-		_putchar(school[i]);
-	}
-	_putchar(10);
-	return (0);
-}
+# 1 "main.h"
+# 1 "<built-in>"
+# 1 "<command-line>"
+# 31 "<command-line>"
+# 1 "/usr/include/stdc-predef.h" 1 3 4
+# 32 "<command-line>" 2
+# 1 "main.h"
